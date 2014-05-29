@@ -221,3 +221,7 @@ main.synctex.gz
 main.pdf
 main.thm
 main.pdf
+*.bbl
+*.blg
+*.dvi
+*.pdf
